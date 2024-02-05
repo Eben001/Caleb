@@ -30,7 +30,7 @@ Check out [this repository](https://github.com/Eben001/CalebChat-Backend) for th
 - Record Audio
 
 ## Screenshots
-
+![screenshot](screenshot.png)
 
 ## Contact
 Created by [ebenezergana](https://www.linkedin.com/in/ebenezergana/) - feel free to contact me!
