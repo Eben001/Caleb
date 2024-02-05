@@ -3,7 +3,7 @@ Caleb is an AI voice assistant that can guide you to discover your dream career,
 This repository is the frontend of Caleb. 
 [Check out the video demo here](https://share.descript.com/view/EUlgKxtkrSr)
 
-Check out [this repository]() for the backend of Caleb.
+Check out [this repository](https://github.com/Eben001/CalebChat-Backend) for the backend of Caleb.
 
 ## Table of Contents
 * [General Info](#general-information)
